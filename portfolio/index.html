@@ -1,0 +1,48 @@
+---
+layout: default
+title: Portfolio
+---
+<head>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('#slider1').bxSlider({
+                auto: true,
+                pager: true,
+                slideWidth: 800,
+                captions: true
+            });
+
+            $('#slider2').bxSlider({
+                auto: true,
+                pager: true,
+                slideWidth: 800,
+                captions: true
+            });
+
+            <!-- Add more carousels as needed -->
+        });
+    </script>
+</head>
+
+<body>
+    <div class="wrapper">
+
+        <section>
+            <h1>Project Portfolio</h1>
+            <h2>Project 1</a></h2>
+
+            <ul id="slider1">
+              <li><img src="/img/folder-name/image-name.png" title="First image caption" /></li>
+              <li><img src="/img/folder-name/image-name.png" title="Second image caption" /></li>
+            </ul>
+
+            <p>Add paragraphs for project description here.</p>
+
+            <ul id="slider2">
+              <li><img src="/img/folder-name/image1.png" title="First image" /></li>
+              <li><img src="/img/folder-name/image2.png" title="Second image" /></li>
+            </ul>
+
+        </section>
+    </div>
+</body>
