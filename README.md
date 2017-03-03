@@ -1,7 +1,7 @@
 # jekyll-portfolio
 ## What is jekyll-portfolio
 
-Is a test of Jekyll and GitHub pages folowing the [Jekyll Portfolio Tutorial](http://drksephy.github.io/2014/04/09/jekyll/) from [David Leonard](https://github.com/DrkSephy)
+Is a test of Jekyll and GitHub pages folowing the [Jekyll Portfolio Tutorial](https://drksephy.github.io/2014/04/09/jekyll/) from [David Leonard](https://github.com/DrkSephy)
 
 ## How to use this repo
 
